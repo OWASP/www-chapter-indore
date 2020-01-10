@@ -10,7 +10,6 @@ region: Asia/Pacific
 ---
 <!-- rebuild -->
 ![OWASP Indore Logo](/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg)
-<h1>OWASP Indore</h1>
 Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](mailto:yatin.sharma@owasp.org) and [Sanskar Sharma](mailto:sanskar.sharma@owasp.org) 
 
 <h2>Upcoming Events</h2>
@@ -25,9 +24,8 @@ Submit your talk now for an upcoming OWASP Indore Chapter Meeting.
 <h2>Sponsorship for Local Chapter </h2>
 For more information on how to support OWASP Indore chapter in helping organize free and open security meets contact the chapter leaders.
 [Yatin Sharma](mailto:yatin.sharma@owasp.org)
-
-
-
+<h2>Code of Conduct</h2>
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies)
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
