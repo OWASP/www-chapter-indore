@@ -3,8 +3,8 @@
 layout: col-sidebar
 title: OWASP Indore
 tags: Indore
-level: 1
-
+level: 0
+auto-migrated: 1
 region: Asia/Pacific
 
 ---
@@ -13,6 +13,56 @@ region: Asia/Pacific
 <img src= "/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg">
 ##OWASP Indore 
 Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](mailto:yatin.sharma@owasp.org) and [Sanskar Sharma](mailto:sanskar.sharma@owasp.org) 
+
+##
+
+|meetupurl=https://www.meetup.com/OWASP-Indore-Chapter/|region=Asia/Pacific/Middle East}}
+
+== Become a Speaker ==
+Submit your talk now for an upcoming OWASP Indore Chapter Meeting.
+
+[https://docs.google.com/forms/d/e/1FAIpQLSdKvScszAknOQAl40lm-4NJSkvWU9VJxK0kwPSsTntO_ysCLA/viewform?usp=sf_link Link to submit]
+
+== Sponsorship for Local Chapter ==
+For more information on how to support OWASP Indore chapter in helping organize free and open security meets contact the chapter leaders.
+
+[mailto:yatin.sharma@owasp.org Yatin Sharma]
+
+[[File:Spons1.1.png|frameless|none]]
+
+='''Upcomming Events''' =
+Will Be Updated Soon
+
+= Stay Updated =
+
+=== Follow @owaspindore for event updates on Twitter ===
+[[File:Twitter-bird-cropped-onwhite-40%25smaller.png]]
+'''[https://twitter.com/owaspindore OWASP Indore Twitter Account]'''
+===Follow @owaspindore for event updates on Facebook===
+[[File:Facebook.png]]
+'''[https://facebook.com/owaspindore OWASP Indore Facebook Account]'''
+='''Past Events'''=
+=== First Meetup [14th Sept 2019]===
+OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
+
+Date: Saturday 14 Sep 2019
+
+Session Details/Agenda:
+
+4:45-5:00 pm : Introductions and Chapter Updates<br>
+5:00-5:45 pm : Recon by Sanskar Sharma<br>
+5:45-6:00 pm : Networking Breaks<br>
+6:00-6:45 pm : Subdomain Takeover By Yatin Sharma<br>
+6:45-7:00 pm : Feedback and Next Meet Discussion
+
+Venue:
+WittyFeed 911, Shekhar Central, Palasia Square, Manorama Ganj, Indore, Madhya Pradesh 452001
+
+Google MAP URL - https://goo.gl/maps/FBWDJciCjdDiTPyGA<br>
+RSVP us at
+http://bit.ly/owaspindorefirstmeet<br>
+Register here directly at 
+http://bit.ly/2k9cA4e
 
 
 <!-- Standard Chapter Page Template
