@@ -1,12 +1,14 @@
 ---
 
 title: Upcomming Events
-layout:  null
+displaytext: Upcomming Events
+layout: null
 tab: true
 order: 2
-tags:Indore
+tags: Indore
 
 ---
+
 
 ##Upcomming Events 
 Will be updated soon 
