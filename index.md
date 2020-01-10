@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Indore
 tags: Indore
 level: 0
-auto-migrated: 1
+auto-migrated: 0
 region: Asia/Pacific
 
 ---
