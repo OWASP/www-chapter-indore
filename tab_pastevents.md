@@ -28,6 +28,6 @@ Session Details/Agenda:
 
 Venue: WittyFeed 911, Shekhar Central, Palasia Square, Manorama Ganj, Indore, Madhya Pradesh 452001
 
-Google MAP URL - [https://goo.gl/maps/FBWDJciCjdDiTPyGA]
-RSVP us at [http://bit.ly/owaspindorefirstmeet]
-Register here directly at [http://bit.ly/2k9cA4e] 
+Google MAP URL - [Map](https://goo.gl/maps/FBWDJciCjdDiTPyGA)<br>
+RSVP us at [Rsvp](http://bit.ly/owaspindorefirstmeet)<br>
+Register here directly at [Register](http://bit.ly/2k9cA4e) 
