@@ -17,7 +17,7 @@ For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chap
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)
 
 <h2>Become a Speaker</h2>
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP London Chapter events - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
 [Speaker Form](https://docs.google.com/forms/d/e/1FAIpQLSdKvScszAknOQAl40lm-4NJSkvWU9VJxK0kwPSsTntO_ysCLA/viewform)
 
 <h2>Sponsorship for Local Chapter </h2>
