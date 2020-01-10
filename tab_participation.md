@@ -1,9 +1,9 @@
 ---
 
-layout: col-sidebar
-title: OWASP Indore 
+title: Participation
+tab: true
+order: 2
 tags: Indore
-region: Asia
 
 ---
 
