@@ -12,7 +12,7 @@ tags: Indore
 
 ## Past Events
 
-<h2>First Meetup 14th Sept 2019<h2>
+<h2>First Meetup 14th Sept 2019</h2>
 
 OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
 
