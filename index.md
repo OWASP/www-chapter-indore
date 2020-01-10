@@ -16,7 +16,7 @@ Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](m
 There are 2 ways to participate in the OWASP Indore Chapter Events
 * Attending the Event
 * Speaking at the Event 
-* Look at the [Participation](https://www2.owasp.org/www-chapter-indore/#div-participation) Tab for further details.
+* Look at the Participation Tab for further details.
 
 <h2>Upcoming Events</h2>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
