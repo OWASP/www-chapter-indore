@@ -9,4 +9,4 @@ If you would like to attend the upcoming events, join the chapter at [Indore](ht
 
 <h3>Speaking at the Event>/h3>
 <h4>Call for Speakers</h4>
-If you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement.html) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
+If you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement.html) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via [Speaker Form](https://docs.google.com/forms/d/e/1FAIpQLSdKvScszAknOQAl40lm-4NJSkvWU9VJxK0kwPSsTntO_ysCLA/viewform).
