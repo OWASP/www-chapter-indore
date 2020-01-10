@@ -10,7 +10,6 @@ region: Asia/Pacific
 ---
 <!-- rebuild -->
 ![OWASP Indore Logo](/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg)
-<img src= "/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg">
 <h1>OWASP Indore</h1> 
 Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](mailto:yatin.sharma@owasp.org) and [Sanskar Sharma](mailto:sanskar.sharma@owasp.org) 
 
