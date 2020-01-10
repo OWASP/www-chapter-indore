@@ -10,7 +10,9 @@ region: Asia/Pacific
 auto-migrated: 1
 
 ---
-
+<!-- rebuild -->
+OWASP Indore 
+<img src= "/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg">
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
