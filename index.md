@@ -14,8 +14,8 @@ region: Asia/Pacific
 Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](mailto:yatin.sharma@owasp.org) and [Sanskar Sharma](mailto:sanskar.sharma@owasp.org) 
 
 <h2>Upcoming Events</h2>
-For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on
-[![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore) [Twitter](https://twitter.com/owaspindore) [Instagram](https://www.instagram.com/owaspindore)
+For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
+[![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore) <br>[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 
 <h2>Become a Speaker</h2>
 Submit your talk now for an upcoming OWASP Indore Chapter Meeting.
