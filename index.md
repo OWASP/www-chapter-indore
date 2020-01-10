@@ -2,20 +2,17 @@
 
 layout: col-sidebar
 title: OWASP Indore
-tags: example-tag
-level: 0
+tags: Indore
+level: 1
 
 region: Asia/Pacific
-
-auto-migrated: 1
 
 ---
 <!-- rebuild -->
 
 <img src= "/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg">
-#OWASP Indore 
-Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](mailto://yatin.sharma@owasp.org) and [Sanskar Sharma](mailto://sanskar.sharma@owasp.org) 
-
+##OWASP Indore 
+Welcome to the Indore chapter homepage. The chapter leaders are [Yatin Sharma](mailto:yatin.sharma@owasp.org) and [Sanskar Sharma](mailto:sanskar.sharma@owasp.org) 
 
 
 <!-- Standard Chapter Page Template
