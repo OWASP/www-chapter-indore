@@ -4,7 +4,7 @@ title: PastEvents
 displaytext: Past Events
 layout: null
 tab: true
-order: 3
+order: 4
 tags: Indore
 
 ---
