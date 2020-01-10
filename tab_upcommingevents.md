@@ -9,6 +9,5 @@ tags: Indore
 
 ---
 
-
 ##Upcomming Events 
 Will be updated soon 
