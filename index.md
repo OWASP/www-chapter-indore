@@ -5,7 +5,7 @@ title: OWASP Indore
 tags: Indore
 level: 0
 auto-migrated: 0
-region: Asia/Pacific
+region: Asia
 
 ---
 <!-- rebuild -->
