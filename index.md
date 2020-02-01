@@ -30,11 +30,11 @@ Session Details/Agenda:<br>
 12:30-1:00 pm : Networking Breaks<br>
 Information About Speaker:<br>
 Shashank Sharma is a Security Engineer at Altered Security Solutions Pvt Ltd.<br>
-Location:https://www.google.com/maps/place/22%C2%B045'51.5%22N+75%C2%B053'13.7%22E/@22.764307,75.88713,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d22.764307!4d75.88713<br>
+Location:[Engineer babu](https://www.google.com/maps/place/22%C2%B045'51.5%22N+75%C2%B053'13.7%22E/@22.764307,75.88713,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d22.764307!4d75.88713)<br>
 Rsvp us at :https://www.meetup.com/OWASP-Indore-Chapter/events/268359168/<br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
-[![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)
-
+[![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
+[Discord Group](https://discord.gg/7FGjtG)
 <h2>Become a Speaker</h2>
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
 [Speaker Form](https://docs.google.com/forms/d/e/1FAIpQLSdKvScszAknOQAl40lm-4NJSkvWU9VJxK0kwPSsTntO_ysCLA/viewform)
