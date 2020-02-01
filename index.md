@@ -19,6 +19,19 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 * Look at the Participation Tab for further details.
 
 <h2>Upcoming Events</h2>
+<h3> OWASP and Defcon Second Meetup on 9Feb 2020</h3>
+OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.<br>
+
+Date: Sunday 9 Feb 2020<br>
+
+Session Details/Agenda:<br>
+10:30-11:00 am : Introductions and Chapter Updates<br>
+11:00 am-12:30 pm :Intro to TLD(which will foiled by DNS and APTs) By Shashank Sharma<br>
+12:30-1:00 pm : Networking Breaks<br>
+Information About Speaker:<br>
+Shashank Sharma is a Security Engineer at Altered Security Solutions Pvt Ltd.<br>
+Location:https://www.google.com/maps/place/22%C2%B045'51.5%22N+75%C2%B053'13.7%22E/@22.764307,75.88713,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d22.764307!4d75.88713<br>
+Rsvp us at :https://www.meetup.com/OWASP-Indore-Chapter/events/268359168/<br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)
 
