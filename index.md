@@ -49,7 +49,7 @@ Session Details/Agenda:<br>
 RSVP us at :- [RSVP link](bit.ly/owaspdefconmeet)<br>
 
 Our Discord Group:<br>
-https://discord.gg/fETNeeQ<br>
+[Dicord Group](https://discord.gg/fETNeeQ)<br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
