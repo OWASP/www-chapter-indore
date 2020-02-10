@@ -39,7 +39,7 @@ Session Details/Agenda:<br>
 </p>
 <p>Intro of Speaker :-Deepanshu Bhinda is an Experienced Chief Executive Officer with a demonstrated history of working in the information technology and services industry. Skilled in Probability, Data Science, Presentation Skills, Web Design, and Data Analytics.he handle ambiguity and come-up with the right intuitive and easy-to-use solutions, taking on projects that require high skill levels and strong technical expertise.Having specialties in Computer Vision Software Applications for: Cloud computing, Mobile, Web, Desktop. Technology expertise including: Computer Vision, Video & Image Processing, Machine Learning, Object Recognition, Image Recognition, Graphics & 3D Software.</p><br>
 
-RSVP us at :- [RSVP link](bit.ly/owaspdefconmeet)<br>
+RSVP us at :- [RSVP link](https://bit.ly/owaspdefconmeet) <br>
 
 <h3>First Meetup 14th Sept 2019</h3>
 
