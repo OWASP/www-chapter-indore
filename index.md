@@ -38,7 +38,7 @@ Session Details/Agenda:<br><br>
 About Speakers:<br>
 Faiz Ahmed Zaidi have over four years of hands-on experience in IT Security specializing in penetration testing. Apple, Facebook, Intel,MasterCard, Microsoft, Sony, OLX, Tesla Motors, and more acknowledge him for finding security issues. Also registered few CVE's and zero-day with his name.<br><br>
 CSRF:- Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.<br><br>
-Registration form :(Link)[https://forms.gle/XjZh2akSx4hyLxnG7]<br><br>
+Registration form :[Link](https://forms.gle/XjZh2akSx4hyLxnG7)<br><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
