@@ -35,9 +35,21 @@ Session Details/Agenda:<br><br>
 
 01:00 PM - 01:30 PM : Discussion and Q/A.<br><br>
 
-About Speakers:<br>
-Faiz Ahmed Zaidi have over four years of hands-on experience in IT Security specializing in penetration testing. Apple, Facebook, Intel,MasterCard, Microsoft, Sony, OLX, Tesla Motors, and more acknowledge him for finding security issues. Also registered few CVE's and zero-day with his name.<br><br>
-CSRF:- Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.<br><br>
+Introducing Speakers & their Topics :-
+
+Intro of Speaker :-
+
+Faiz Ahmed Zaidi have over four years of hands-on experience in IT Security specializing in penetration testing. Apple, Facebook, Intel,MasterCard, Microsoft, Sony, OLX, Tesla Motors, and more acknowledge him for finding security issues. Also registered few CVE's and zero-day with his name.
+
+CSRF:- Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.
+
+Intro to BUG BOUNTY :-
+
+Bug Bounty is a deal offered by many websites and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities.
+
+Intro of Speaker :-
+
+Lavanya Srivastava is currently working with Expleo Group.He is known for his Extreme Bug Hunting Skills.He has participated in many bug bounties program & Recognised by many Big Tech Companies like –NCIIPC-RVDP(Govt. of India) ,Facebook, Fitbit, Dailymotion, Safehats, Mastercard, Semrush, Sidefx, Sap, Sprotskeeda, CCM & much more. He is also known for his CTF & Python skills. He is a type of guy who look everything deeply.<br><br>
 RSVP :[Here](https://www.meetup.com/OWASP-Indore-Chapter/events/270153757/)
 Registration form :[Here](https://forms.gle/XjZh2akSx4hyLxnG7)<br><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
