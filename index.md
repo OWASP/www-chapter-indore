@@ -50,8 +50,8 @@ Bug Bounty is a deal offered by many websites and software developers by which i
 Intro of Speaker :-
 
 Lavanya Srivastava is currently working with Expleo Group.He is known for his Extreme Bug Hunting Skills.He has participated in many bug bounties program & Recognised by many Big Tech Companies like –NCIIPC-RVDP(Govt. of India) ,Facebook, Fitbit, Dailymotion, Safehats, Mastercard, Semrush, Sidefx, Sap, Sprotskeeda, CCM & much more. He is also known for his CTF & Python skills. He is a type of guy who look everything deeply.<br><br>
-RSVP :[Here](https://www.meetup.com/OWASP-Indore-Chapter/events/270153757/)<br>
-Registration form :[Here](https://forms.gle/XjZh2akSx4hyLxnG7)<br><br>
+RSVP :- [Here](https://www.meetup.com/OWASP-Indore-Chapter/events/270153757/)<br><br>
+Registration form :- [Here](https://forms.gle/XjZh2akSx4hyLxnG7)<br><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
