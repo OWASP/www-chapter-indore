@@ -12,6 +12,8 @@ tags: Indore
 
 ## Past Events
 
+<b><h3> OWASP & DEFCON INDORE VIRTUAL MEETUP 26 APRIL </h3></b>
+
 OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.<br>
 
 Date: Sunday 26 April 2020<br>
