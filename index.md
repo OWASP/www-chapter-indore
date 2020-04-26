@@ -19,39 +19,7 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 * Look at the Participation Tab for further details.
 
 <h2>Upcoming Events</h2><br>
-OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.<br>
 
-Date: Sunday 26 April 2020<br>
-
-Session Details/Agenda:<br><br>
-
-11:00 am - 11:15 am : Introduction of speaker.<br>
-
-11:15 am - 12:00 pm : Intro to Bug Bounty (By Lavanya Srivastava )<br>
-
-12:00 PM - 12:30 PM : Discussion and Q/A.<br>
-
-12:30 pm - 1:15 pm : A Deep Dive into Cross-Site Request Forgery (CSRF) (By Faiz Ahmed Zaidi)<br>
-
-01:00 PM - 01:30 PM : Discussion and Q/A.<br><br>
-
-Introducing Speakers & their Topics :-
-
-Intro of Speaker :-
-
-Faiz Ahmed Zaidi have over four years of hands-on experience in IT Security specializing in penetration testing. Apple, Facebook, Intel,MasterCard, Microsoft, Sony, OLX, Tesla Motors, and more acknowledge him for finding security issues. Also registered few CVE's and zero-day with his name.
-
-CSRF:- Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.
-
-Intro to BUG BOUNTY :-
-
-Bug Bounty is a deal offered by many websites and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities.
-
-Intro of Speaker :-
-
-Lavanya Srivastava is currently working with Expleo Group.He is known for his Extreme Bug Hunting Skills.He has participated in many bug bounties program & Recognised by many Big Tech Companies like –NCIIPC-RVDP(Govt. of India) ,Facebook, Fitbit, Dailymotion, Safehats, Mastercard, Semrush, Sidefx, Sap, Sprotskeeda, CCM & much more. He is also known for his CTF & Python skills. He is a type of guy who look everything deeply.<br><br>
-RSVP :- [Here](https://www.meetup.com/OWASP-Indore-Chapter/events/270153757/)<br><br>
-Registration form :- [Here](https://forms.gle/XjZh2akSx4hyLxnG7)<br><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
