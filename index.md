@@ -6,6 +6,9 @@ tags: Indore
 level: 0
 auto-migrated: 0
 region: Asia
+meetup-group: OWASP-Indore-Chapter
+country: India
+postal-code: 
 
 ---
 <!-- rebuild -->
