@@ -22,7 +22,36 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 * Look at the Participation Tab for further details.
 
 <h2>Upcoming Events</h2><br>
+OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
 
+Date: Sunday 23 August 2020
+
+Session Details/Agenda:
+
+11:00 AM - 11:10 AM : Introduction of speaker.
+
+11:10 AM - 11:50 AM : Blind SQL Injection [ Ansh Bhawnani ]
+
+11:50 AM - 12:10 PM : Discussion and Q/A.
+
+12:10 PM - 12:50 PM : Unrestricted File Upload [ Raju Kumar ]
+
+12:50 PM - 01:10 PM : Discussion and Q/A.
+
+Introducing Speakers & their Topics :-
+
+Blind SQL Injection :- Blind SQL injection is a type of SQL Injection attack that asks the database true or false questions and determines the answer based on the applications response. This attack is often used when the web application is configured to show generic error messages, but has not mitigated the code that is vulnerable to SQL injection.
+
+Intro of Speaker :- Ansh Bhawnani is independent Security Researcher and Hackfluencer.
+
+Unrestricted File Upload :- Uploaded files represent a significant risk to applications. The first step in many attacks is to get some code to the system to be attacked. Then the attack only needs to find a way to get the code executed. Using a file upload helps the attacker accomplish the first step.
+
+Intro of Speaker :-
+
+Raju Kumar is currently Synack Red Team member. He has participated in many bug bounties program & Recognised by many Companies likeDell, Mastercard, Netgear, DigitalOcean , Western Union, Genymotion and many more for finding a critical vulnerability in their website.
+
+RSVP Link :- [RSVP](https://forms.gle/nAWyTSb5LgUmS2N3A)<br>
+Meetup RSVP Link :-[Meetup RSVP](https://www.meetup.com/OWASP-Indore-Chapter/events/272609189/)<br.
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
