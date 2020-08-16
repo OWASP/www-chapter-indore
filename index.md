@@ -51,7 +51,7 @@ Intro of Speaker :-
 Raju Kumar is currently Synack Red Team member. He has participated in many bug bounties program & Recognised by many Companies likeDell, Mastercard, Netgear, DigitalOcean , Western Union, Genymotion and many more for finding a critical vulnerability in their website.
 
 RSVP Link :- [RSVP](https://forms.gle/nAWyTSb5LgUmS2N3A)<br>
-Meetup RSVP Link :-[Meetup RSVP](https://www.meetup.com/OWASP-Indore-Chapter/events/272609189/)<br.
+Meetup RSVP Link :-[Meetup RSVP](https://www.meetup.com/OWASP-Indore-Chapter/events/272609189/)<br>.
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
