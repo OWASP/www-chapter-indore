@@ -22,6 +22,7 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 * Look at the Participation Tab for further details.
 
 <h2>Upcoming Events</h2><br>
+<h2>OWASP INDORE & DC91731 VIRTUAL MEETUP AUG </h2>
 OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
 
 Date: Sunday 23 August 2020
