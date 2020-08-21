@@ -64,4 +64,4 @@ Call For Speakers is open - if you would like to present a talk on Application S
 For more information on how to support OWASP Indore chapter in helping organize free and open security meets contact the chapter leaders.
 [Yatin Sharma](mailto:yatin.sharma@owasp.org)
 <h2>Code of Conduct</h2>
-We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies)
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://owasp.org/www-policy/operational/code-of-conduct)
