@@ -43,7 +43,7 @@ Introducing Speakers & their Topics :-
 
 Blind SQL Injection :- Blind SQL injection is a type of SQL Injection attack that asks the database true or false questions and determines the answer based on the applications response. This attack is often used when the web application is configured to show generic error messages, but has not mitigated the code that is vulnerable to SQL injection.
 
-Intro of Speaker :- Ansh Bhawnani is independent Security Researcher and Hackfluencer.
+Intro of Speaker :-  Ansh Bhawnani is a hackfluencer and a security researcher. He is a cyber security trainer and has been teaching cyber security since past 4 years. He has a YouTube channel with over 108K subscribers.
 
 Unrestricted File Upload :- Uploaded files represent a significant risk to applications. The first step in many attacks is to get some code to the system to be attacked. Then the attack only needs to find a way to get the code executed. Using a file upload helps the attacker accomplish the first step.
 
