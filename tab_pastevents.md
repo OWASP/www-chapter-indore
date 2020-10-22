@@ -9,7 +9,8 @@ tags: Indore
 
 ---
 
-
+{% include chapter_events.html group=page.meetup-group %}
+This works 
 ## Past Events
 
 <h2>OWASP INDORE & DC91731 VIRTUAL MEETUP AUG </h2>
