@@ -20,7 +20,6 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 * Attending the Event
 * Speaking at the Event 
 * Look at the Participation Tab for further details.
- {% include chapter_events.html group=page.meetup-group %}.
 <h2>Upcoming Events</h2><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
