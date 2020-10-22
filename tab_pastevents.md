@@ -9,9 +9,9 @@ tags: Indore
 
 ---
 
-{% include chapter_events.html group=page.meetup-group %}
-This works 
+
 ## Past Events
+{% include chapter_events.html group=page.meetup-group %}
 
 <h2>OWASP INDORE & DC91731 VIRTUAL MEETUP AUG </h2>
 OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
