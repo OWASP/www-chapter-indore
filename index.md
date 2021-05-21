@@ -33,10 +33,8 @@ Some of OWASP Indore community members will be getting :
 
 This is a paid offering for corporates, but  there are few limited passes available for our OWASP Indore community .
 
-Those who are intrested can fill up [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for passes 
- For more info about Security bootcamp 
-
-https://www.securityinnovation.com/training/cmdctrl-bootcamp-solution/
+Those who are intrested can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for free passes. 
+ For more info about Security bootcamp  [visit](https://www.securityinnovation.com/training/cmdctrl-bootcamp-solution/)
 
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
