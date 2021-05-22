@@ -33,7 +33,7 @@ Some of OWASP Indore community members will be getting :
 
 This is a paid offering for corporates, but  there are few limited passes available for our OWASP Indore community .
 
-Those who are interested can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for free passes.Form link will remain open till 22 MAY 2021 8:30PM.<br> 
+Those who are interested can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for free passes.Form link will remain open till 23 MAY 2021 8:30PM.<br> 
  For more info about Security bootcamp  [visit](https://www.securityinnovation.com/training/cmdctrl-bootcamp-solution/)
 
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
