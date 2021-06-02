@@ -21,21 +21,6 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 * Speaking at the Event 
 * Look at the Participation Tab for further details.
 <h2>Upcoming Events</h2><br>
-<h3>Security BootCamp Free limited Passes for OWASP Indore Members</h3>
-
-It is the most cost-effective way for learners of all skill levels to walk away with enhanced Application Security skills and the reports to prove it - all within a month!
-
-Some of OWASP Indore community members will be getting :
-
-  1. 4-hours Live Instructor-led Training + Hands-on hacking session   
-  2. 30-days FREE access to our on-demand Security Training Courses 
-  3. Certificate of Completion 
-
-This is a paid offering for corporates, but  there are few limited passes available for our OWASP Indore community .
-
-Those who are interested can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for free passes.Form link will remain open till 23 MAY 2021 8:30PM.<br> 
- For more info about Security bootcamp  [visit](https://www.securityinnovation.com/training/cmdctrl-bootcamp-solution/)
-
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
 [![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 [Discord Group](https://discord.gg/fETNeeQ)
