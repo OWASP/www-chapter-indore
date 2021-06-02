@@ -15,6 +15,22 @@ tags: Indore
 {% include chapter_events.html group=page.meetup-group %}
 <script type='text/javascript'> $(function(){ $(".timeclass").hover(function() { utc_str = $(this).text(); ndx = utc_str.indexOf(':'); st_hour_str = utc_str.substring(0, ndx); st_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0); start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); ndx = utc_str.lastIndexOf(':'); end_hour_str = utc_str.substring(ndx - 2, ndx - 1); end_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0); end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET); $(this).prop('title', popstr); }); }); </script> 
 
+<h3>Security BootCamp Free limited Passes for OWASP Indore Members</h3>
+
+It is the most cost-effective way for learners of all skill levels to walk away with enhanced Application Security skills and the reports to prove it - all within a month!
+
+Some of OWASP Indore community members will be getting :
+
+  1. 4-hours Live Instructor-led Training + Hands-on hacking session   
+  2. 30-days FREE access to our on-demand Security Training Courses 
+  3. Certificate of Completion 
+
+This is a paid offering for corporates, but  there are few limited passes available for our OWASP Indore community .
+
+Those who are interested can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for free passes.Form link will remain open till 23 MAY 2021 8:30PM.<br> 
+ For more info about Security bootcamp  [visit](https://www.securityinnovation.com/training/cmdctrl-bootcamp-solution/)<br><br>
+
+
 <h2>OWASP INDORE & DC91731 VIRTUAL MEETUP AUG </h2>
 OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
 
