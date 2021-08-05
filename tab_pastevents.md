@@ -11,25 +11,9 @@ tags: Indore
 
 
 ## Past Events
-{% include chapter_events.html group=page.meetup-group %}
+
 {% include chapter_events.html group=page.meetup-group %}
 <script type='text/javascript'> $(function(){ $(".timeclass").hover(function() { utc_str = $(this).text(); ndx = utc_str.indexOf(':'); st_hour_str = utc_str.substring(0, ndx); st_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0); start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); ndx = utc_str.lastIndexOf(':'); end_hour_str = utc_str.substring(ndx - 2, ndx - 1); end_min_str = utc_str.substring(ndx + 1, ndx + 3); utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0); end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName); popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET); $(this).prop('title', popstr); }); }); </script> 
-
-<h3>Security BootCamp Free limited Passes for OWASP Indore Members</h3>
-
-It is the most cost-effective way for learners of all skill levels to walk away with enhanced Application Security skills and the reports to prove it - all within a month!
-
-Some of OWASP Indore community members will be getting :
-
-  1. 4-hours Live Instructor-led Training + Hands-on hacking session   
-  2. 30-days FREE access to our on-demand Security Training Courses 
-  3. Certificate of Completion 
-
-This is a paid offering for corporates, but  there are few limited passes available for our OWASP Indore community .
-
-Those who are interested can fill up this [form](https://docs.google.com/forms/d/e/1FAIpQLSduPvqrRsL4nXYH9tviwwUvHP-QUApS4hcGSCzc8x_aq5xi8w/viewform?vc=0&c=0&w=1&flr=0) for free passes.Form link will remain open till 23 MAY 2021 8:30PM.<br> 
- For more info about Security bootcamp  [visit](https://www.securityinnovation.com/training/cmdctrl-bootcamp-solution/)<br><br>
-
 
 <h2>OWASP INDORE & DC91731 VIRTUAL MEETUP AUG </h2>
 OWASP meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and willingness to share and learn.
@@ -60,7 +44,6 @@ Intro of Speaker :-
 
 Raju Kumar is currently Synack Red Team member. He has participated in many bug bounties program & Recognised by many Companies likeDell, Mastercard, Netgear, DigitalOcean , Western Union, Genymotion and many more for finding a critical vulnerability in their website.
 
-RSVP Link :- [RSVP](https://forms.gle/nAWyTSb5LgUmS2N3A)<br>
 Meetup RSVP Link :-[Meetup RSVP](https://www.meetup.com/OWASP-Indore-Chapter/events/272609189/).<br>
 
 <b>OWASP & DEFCON INDORE VIRTUAL MEETUP 26 APRIL </b>
@@ -97,8 +80,6 @@ Intro of Speaker :-
 
 Lavanya Srivastava is currently working with Expleo Group.He is known for his Extreme Bug Hunting Skills.He has participated in many bug bounties program & Recognised by many Big Tech Companies like –NCIIPC-RVDP(Govt. of India) ,Facebook, Fitbit, Dailymotion, Safehats, Mastercard, Semrush, Sidefx, Sap, Sprotskeeda, CCM & much more. He is also known for his CTF & Python skills. He is a type of guy who look everything deeply.<br><br>
 RSVP :- [Here](https://www.meetup.com/OWASP-Indore-Chapter/events/270153757/)<br><br>
-Registration form :- [Here](https://forms.gle/XjZh2akSx4hyLxnG7)<br><br>
-
 
 
 <h3> OWASP and Defcon Second Meetup on 9Feb 2020</h3>
@@ -128,7 +109,7 @@ Session Details/Agenda:<br>
 </p>
 <p>Intro of Speaker :-Deepanshu Bhinda is an Experienced Chief Executive Officer with a demonstrated history of working in the information technology and services industry. Skilled in Probability, Data Science, Presentation Skills, Web Design, and Data Analytics.he handle ambiguity and come-up with the right intuitive and easy-to-use solutions, taking on projects that require high skill levels and strong technical expertise.Having specialties in Computer Vision Software Applications for: Cloud computing, Mobile, Web, Desktop. Technology expertise including: Computer Vision, Video & Image Processing, Machine Learning, Object Recognition, Image Recognition, Graphics & 3D Software.</p><br>
 
-RSVP us at :- [RSVP link](https://bit.ly/owaspdefconmeet) <br>
+RSVP us at :- [RSVP link](https://www.meetup.com/OWASP-Indore-Chapter/events/268359168/) <br>
 
 <h3>First Meetup 14th Sept 2019</h3>
 
@@ -147,5 +128,4 @@ Session Details/Agenda:
 Venue: WittyFeed 911, Shekhar Central, Palasia Square, Manorama Ganj, Indore, Madhya Pradesh 452001
 
 Google MAP URL - [Map](https://goo.gl/maps/FBWDJciCjdDiTPyGA)<br>
-RSVP us at [Rsvp](http://bit.ly/owaspindorefirstmeet)<br>
-Register here directly at [Register](http://bit.ly/2k9cA4e) 
+RSVP us at [Rsvp](https://www.meetup.com/OWASP-Indore-Chapter/events/264622195/)<br>
