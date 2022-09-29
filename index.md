@@ -13,7 +13,7 @@ postal-code:
 ---
 <!-- rebuild -->
 ![OWASP Indore Logo](/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg)<br>
-Welcome to the Indore chapter homepage. The chapter leaders are [Krishnapal Sharma](mailto:Krishnapal.sharma@owasp.org) and [Pankaj Verma](mailto:pankaj.verma@owasp.org) 
+Welcome to the Indore chapter homepage. The chapter leaders are [Krishnapal Sharma](mailto:Krishnapal.sharma@owasp.org) and [Pankaj Verma](mailto:pankaj.verma@owasp.org). 
 
 <h2>Participate</h2>
 There are 2 ways to participate in the OWASP Indore Chapter Events
