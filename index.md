@@ -12,21 +12,19 @@ postal-code:
 
 ---
 <!-- rebuild -->
-![OWASP Indore Logo](/assets/images/665c03c6adb74b9785144dfcc4c3ec08.jpeg)<br>
+![OWASP Indore Logo](/assets/images/OWASPIndore.png)<br>
 Welcome to the Indore chapter homepage. The chapter leaders are [Krishnapal Sharma](mailto:Krishnapal.sharma@owasp.org) and [Pankaj Verma](mailto:pankaj.verma@owasp.org). 
 
 <h2>Participate</h2>
 There are 2 ways to participate in the OWASP Indore Chapter Events
-* Attending the Event
-* Speaking at the Event 
-* Look at the Participation Tab for further details.
+- Attending the Event
+- Speaking at the Event 
+- Look at the Participation
 <h2>Upcoming Events</h2><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
-[![Facebook Logo](/assets/images/Facebook.jpg)](https://facebook.com/owaspindore)[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
-[Discord Group](https://discord.gg/fETNeeQ)
+[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
 <h2>Become a Speaker</h2>
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via:
-[Speaker Form](https://docs.google.com/forms/d/e/1FAIpQLSdKvScszAknOQAl40lm-4NJSkvWU9VJxK0kwPSsTntO_ysCLA/viewform)
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via Email.
 
 <h2>Sponsorship for Local Chapter </h2>
 For more information on how to support OWASP Indore chapter in helping organize free and open security meets contact the chapter leaders. [Krishnapal Sharma](mailto:Krishnapal.sharma@owasp.org)
