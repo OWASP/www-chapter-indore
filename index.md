@@ -21,8 +21,7 @@ There are 2 ways to participate in the OWASP Indore Chapter Events
 - Speaking at the Event 
 - Look at the Participation
 <h2>Upcoming Events</h2><br>
-For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) and follow us on<br>
-[![Twitter Logo](/assets/images/twitter.jpg)](https://twitter.com/owaspindore) [![Instagram Logo](/assets/images/instagram.jpg)](https://www.instagram.com/owaspindore)<br>
+For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) or follow us on [Twitter](https://twitter.com/owaspindore) and [Instagram](https://www.instagram.com/owaspindore)
 <h2>Become a Speaker</h2>
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Indore Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via Email.
 
