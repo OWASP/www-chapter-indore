@@ -19,7 +19,7 @@ Welcome to the Indore chapter homepage. The chapter leaders are [Krishnapal Shar
 There are 2 ways to participate in the OWASP Indore Chapter Events
 - Attending the Event
 - Speaking at the Event 
-- Look at the Participation
+
 <h2>Upcoming Events</h2><br>
 For upcomming events visit our [Meetup](https://www.meetup.com/OWASP-Indore-Chapter) or follow us on [Twitter](https://twitter.com/owaspindore) and [Instagram](https://www.instagram.com/owaspindore)
 <h2>Become a Speaker</h2>
