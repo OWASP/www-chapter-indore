@@ -1,0 +1,25 @@
+leaders:
+  - name: Pankaj Verma
+    email: pankaj.verma@owasp.org
+    github: p4nk4jv
+  - name: Krishnapal Sharma
+    email: Krishnapal.sharma@owasp.org
+    github: iamsanskarsharma
+location:
+  country: India
+  country_code: IN
+  region: Madhya Pradesh
+  city: Indore
+  latitude: 22.7203616
+  longitude: 75.8681996
+meetup_group: OWASP-Indore-Chapter
+name: OWASP Indore
+repositories:
+  - name: www-chapter-indore
+    url: https://github.com/OWASP/www-chapter-indore
+    description: OWASP Foundation Web Repository
+tags:
+  - Indore
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-indore
